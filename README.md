@@ -45,10 +45,6 @@ python main.py --input <path_to_data> --output <path_to_output>
 
 Replace `<path_to_data>` with your input data file and `<path_to_output>` with your desired output file path.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to Anthropic for their pioneering work in contextual retrieval techniques, which inspired this project.
