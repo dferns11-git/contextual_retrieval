@@ -1,7 +1,3 @@
-Certainly! Here’s a GitHub project description for your Contextual Retrieval project, incorporating the key aspects discussed:
-
----
-
 # Contextual Retrieval Project
 
 ## Overview
